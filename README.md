@@ -5,8 +5,11 @@ A web application to search and explore meal recipes using an external API.
 Features:
 
 •	Search meals by name or keywords 
+
 •	View detailed recipe instructions and ingredients 
+
 •	Get random meal suggestions instantly 
+
 •	Interactive and responsive user interface 
 
 Technologies:
