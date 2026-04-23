@@ -15,7 +15,9 @@ Features:
 Technologies:
 
 •	HTML5  
+
 •	CSS3  
+
 •	JavaScript (ES6) 
 
 •	TheMealDB API 
